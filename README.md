@@ -1,3 +1,3 @@
-# SideHustle_HYPERMAN
+# SideHustle_HYPEMAN
 
 ## Group Project
