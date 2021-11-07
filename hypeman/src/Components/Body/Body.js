@@ -9,7 +9,7 @@ import sidehustle from "../../img/sidehustle_logo.png";
 
 const Body = () => {
     
-        const [textstate, setTextstate] = useState(sidehustle);
+        const [textstate, setTextstate] = useState('');
       
         const textHandler = (e) => {
           setTextstate(e.target.value);
